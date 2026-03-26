@@ -1,185 +1,110 @@
-# BSC_DPDM2025
-
+BSC_DPDM2025
 <div align="center">
-
-<img src="https://img.shields.io/badge/Student-Tunlathorn%20Sangjangwang-374151?style=flat-square"/>
-<img src="https://img.shields.io/badge/ID-653020207--7-6b7280?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/Student-Tullathorn%20Sangchangwang-1e3a5f?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ID-653020207--7-2c5f8a?style=for-the-badge&logoColor=white"/>
 </div>
 
----
-
-## Course Overview
-
-This repository contains materials and summaries for the course **Data Preparation and Data Mining (DPDM2025)**, including lecture notes, assignments, and project work.
-
----
-
-## Course Grading Criteria
-
+Course Grading Criteria
 <div align="center">
-
-<table>
-<tr>
-<th>Component</th>
-<th>Type</th>
-<th>Weight</th>
-</tr>
-
-<tr>
-<td>Midterm Examination</td>
-<td>Individual</td>
-<td><b>25%</b></td>
-</tr>
-
-<tr>
-<td>Final Examination</td>
-<td>Individual</td>
-<td><b>25%</b></td>
-</tr>
-
-<tr>
-<td>Project</td>
-<td>Group</td>
-<td><b>20%</b></td>
-</tr>
-
-<tr>
-<td>Homework</td>
-<td>Group</td>
-<td><b>15%</b></td>
-</tr>
-
-<tr>
-<td>Quiz</td>
-<td>Individual</td>
-<td><b>10%</b></td>
-</tr>
-
-<tr>
-<td>GitHub</td>
-<td>Individual</td>
-<td><b>5%</b></td>
-</tr>
-
-<tr>
-<td><b>Total</b></td>
-<td></td>
-<td><b>100%</b></td>
-</tr>
-
-</table>
-
+ComponentTypeWeightMidterm ExamIndividual25%Final ExamIndividual25%ProjectGroup (5–6)20%HomeworkGroup15%QuizIndividual10%GitHubIndividual5%Total100%
 </div>
 
----
+Midterm focuses on Data Preprocessing · Final focuses on Data Mining Theory
 
-## Course Contents
 
+Course Summary
 <details open>
-<summary><b>Chapter 1: Introduction to Data Mining</b></summary>
-
-- Basic concepts and applications  
-
+<summary><b>Chapter 1 — Introduction to Data Mining</b></summary>
+<br>
+FileLinkIntroductionOpen File
 </details>
 
 <details>
-<summary><b>Chapter 2: Data Understanding</b></summary>
-
-- Data types  
-- Exploratory data analysis  
-
+<summary><b>Chapter 2 — Getting to Know Your Data</b></summary>
+<br>
+FileLinkSlide AllOpen File
 </details>
 
 <details>
-<summary><b>Chapter 3: Data Preprocessing</b></summary>
-
-- Data cleaning  
-- Missing value handling  
-- Noise reduction  
-
+<summary><b>Chapter 3 — Data Preprocessing</b></summary>
+<br>
+FileLinkSummaryOpen FileNoisy DataOpen File
 </details>
 
 <details>
-<summary><b>Chapter 6: Frequent Pattern Mining</b></summary>
-
-- Association rules  
-- Pattern discovery  
-
+<summary><b>Chapter 6 — Mining Frequent Patterns</b></summary>
+<br>
+FileLinkSlide AllOpen File
 </details>
 
 <details>
-<summary><b>Chapter 8: Classification</b></summary>
-
-- Decision Tree  
-- Naive Bayes  
-- Model evaluation  
-
+<summary><b>Chapter 8 — Classification</b></summary>
+<br>
+FileLinkDecision TreeOpen FileNaive BayesOpen FileModel EvaluationOpen File
 </details>
 
 <details>
-<summary><b>Chapter 9: Advanced Methods</b></summary>
-
-- Neural Networks  
-- Advanced techniques  
-
+<summary><b>Chapter 9 — Advanced Methods</b></summary>
+<br>
+FileLinkAdvanced MethodsOpen FileNeural NetworkOpen File
 </details>
 
 <details>
-<summary><b>Chapter 10: Clustering</b></summary>
-
-- K-Means  
-- Hierarchical clustering  
-
+<summary><b>Chapter 10 — Cluster Analysis</b></summary>
+<br>
+FileLinkK-MeansOpen FileHierarchicalOpen File
 </details>
 
----
-
-## Tools and Technologies
-
+Tools & Skills
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,github"/>
-
+<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,github,vscode&perline=7"/>
 </div>
 
----
+About
 
-## Project: Rainfall Prediction
+Statistics (SIDS) Student
+Interests: Data Analytics, Machine Learning, Deep Learning
+Currently studying Data Mining and AI
+Goal: Data Scientist
 
-### Objective
-To develop machine learning models for predicting rainfall using historical weather data.
 
----
+Project: Rainfall Prediction using Machine Learning
+Objective
+Development of a Machine Learning model for rainfall prediction using historical meteorological data and climate indices.
 
-### Methodology
+Models Used
 
-1. Data Collection  
-2. Data Preprocessing  
-3. Model Training  
-4. Model Evaluation (MAE, RMSE)  
+Neural Network (ANN) & LSTM
+Huber Regressor
+K-Nearest Neighbors (KNN)
+Isotonic Regression
 
----
 
-### Models Used
+Methodology
 
-- Dummy Regressor (Baseline)  
-- K-Nearest Neighbors  
-- Neural Network (ANN / LSTM)  
-- Huber Regressor  
+Data Collection (Rainfall + Climate Index)
+Data Preprocessing
 
----
+Missing Value Handling
+Normalization
+Feature Selection
 
-### Project Resources
 
-- Dataset: (Insert link)  
-- Code: (Insert link)  
-- Report: (Insert link)  
+Model Training
+Cross Validation (K-Fold)
+Model Evaluation
 
----
+
+Tools Used
+
+Python (Scikit-learn)
+Google Colab
+Pandas / NumPy / Matplotlib
+
+
+Project Files
+ResourceLinkDatasetDataCode — LSTMGoogle ColabCode — Train All ModelsGoogle ColabReport SlideView Slide
 
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer)
-
+<sub>BSC_DPDM2025 · Tullathorn Sangchangwang · 653020207-7</sub>
 </div>
