@@ -127,14 +127,6 @@
 
 Development of a Machine Learning model for rainfall forecasting using historical meteorological data and climate indices (ENSO, IOD, MJO). Models evaluated via K-Fold cross-validation.
 
-**Models Used**
-
-| Model | Notes |
-|:--|:--|
-| Neural Network (ANN) & LSTM | Deep learning approach |
-| Huber Regressor | Robust to outliers |
-| K-Nearest Neighbors (KNN) | Instance-based learning |
-| Isotonic Regression | Non-parametric regression |
 
 **Methodology**
 ```
@@ -144,23 +136,6 @@ Development of a Machine Learning model for rainfall forecasting using historica
 4. Cross Validation      →  K-Fold
 5. Model Evaluation      →  Compare performance metrics
 ```
-
-**Project Files**
-
-| Resource | Type | Link |
-|:--|:--|:--|
-| Dataset | Google Drive | [Open →](https://drive.google.com/drive/folders/1Mo47ug7ByaXYZ13tFSONCGlyVoqXeH8a?usp=sharing) |
-| Code — LSTM | Google Colab | [Open →](https://colab.research.google.com/drive/1Gk9EuEXXChMSldHtSLonOcCopUQimXit?usp=sharing) |
-| Code — All Models | Google Colab | [Open →](https://colab.research.google.com/drive/1m6jP76rvJyuHxTIxoO4yJwRiwqcLzMIx?usp=sharing) |
-| Report Slide | PDF | [Open →](https://drive.google.com/file/d/1EGUkvyuSD3w1NyALzxHgD9EYzTjplGx7/view?usp=sharing) |
-
----
-
-## About
-
-Statistics (SIDS) student at Khon Kaen University with interests in Data Analytics, Machine Learning, and Deep Learning. Currently studying Data Mining and AI with the goal of becoming a Data Scientist.
-
----
 
 <div align="center">
 <sub>BSC_DPDM2025 &nbsp;·&nbsp; Tullathorn Sangchangwang &nbsp;·&nbsp; 653020207-7</sub>
